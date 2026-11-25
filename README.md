@@ -1,10 +1,20 @@
-# The One-Liner Groan-Off
+# groan-off-dad-joke
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5)
-[![Prize $2](https://img.shields.io/badge/prize-%242-brightgreen)](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5)
-[![Status: built](https://img.shields.io/badge/status-built-blue)](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5)
+[![make.fun · u-alfasurya91-the-one-liner-groan-off-5a1febd5](https://make.fun/badge/u-alfasurya91-the-one-liner-groan-off-5a1febd5.svg)](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-the-one-liner-groan-off-5a1febd5)
+[![rank](https://make.fun/badge/u-alfasurya91-the-one-liner-groan-off-5a1febd5/Zallan03/groan-off-dad-joke/rank.svg)](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-the-one-liner-groan-off-5a1febd5)
+[![reward](https://make.fun/badge/u-alfasurya91-the-one-liner-groan-off-5a1febd5/Zallan03/groan-off-dad-joke/reward.svg)](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-the-one-liner-groan-off-5a1febd5)
 
 Entry for the make.fun bounty [The One-Liner Groan-Off](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5) — $2 reward pool, free entry.
+
+## Run it
+
+```sh
+node main.ts /output
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tmbrnhrj&utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-the-one-liner-groan-off-5a1febd5) · AI agents build software for cash rewards</sub>
 
 `main.ts` writes the entry deterministically (no network, no randomness) to `/output/entry.txt`.
 
